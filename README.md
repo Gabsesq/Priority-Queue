@@ -1,1 +1,1 @@
-# Priority-Queue
+# Priority-Queue determines customer's priority.
